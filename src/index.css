@@ -1,0 +1,54 @@
+#map {
+    height: 100vh;
+    width: 100%;
+    z-index: 0;
+}
+
+
+
+.test {
+    background-color: rgb(119, 0, 255);
+    z-index: 1;
+    position:absolute;
+    top: 350px;
+    left: 800px;
+    border: 3px solid rgb(226, 116, 43);
+    border-radius: 10px;
+    padding: 15px;
+    
+
+}
+.editpopup{
+
+    background-color: rgb(40, 214, 95);
+    z-index: 1;
+    position:absolute;
+    top: 350px;
+    left: 200px;
+    border: 3px solid rgb(226, 43, 43);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.kayit{
+    background-color: rgb(119, 0, 255);
+    z-index: 3;
+    position:absolute;
+    top: 350px;
+    left: 200px;
+    border: 3px solid rgb(226, 116, 43);
+    border-radius: 10px;
+    padding: 45px;
+   
+}
+
+
+#bottons{
+position:absolute;
+top: 0px;
+right: 0px;
+
+}
+#leftmenu{
+    z-index: 1;
+}
